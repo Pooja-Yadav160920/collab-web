@@ -76,7 +76,7 @@
         <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
       </nav>
      <div class="d-flex align-items-center gap-2">
-    <a class="btn-getstarted" href="https://collab.awlinternational.com" style="background-color: #FF4747;">LOGIN</a>
+    <a class="btn-getstarted" href="https://collab.awlinternational.com/login" style="background-color: #FF4747;">LOGIN</a>
     <a class="btn-getstarted" href="#contact">GET IN TOUCH</a>
 </div>
 
