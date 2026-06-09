@@ -1224,11 +1224,11 @@ retailers, and distributors</h2> -->
     <div class="cta-section" data-aos="zoom-in" data-aos-delay="300">
       <div class="cta-content">
         <span class="cta-label"><i class="bi bi-lightning-charge-fill"></i> Ready to Start?</span>
-        <h3>Let's Create Something Amazing Together</h3>
-        <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium totam rem aperiam.</p>
+        <h3>Take Control of Your Supply Chain with Collab</h3>
+        <p>Connect suppliers, warehouses, and procurement teams on one centralized platform. Reduce delays, increase transparency, and drive operational efficiency across your entire network.</p>
         <div class="cta-buttons">
-          <a href="#contact" class="btn-cta-primary">Launch Your Project <i class="bi bi-arrow-right"></i></a>
-          <a href="#services" class="btn-cta-secondary"><i class="bi bi-play-circle"></i> Explore Services</a>
+          <a href="#contact" class="btn-cta-primary">Get Started <i class="bi bi-arrow-right"></i></a>
+          <a href="#features" class="btn-cta-secondary"><i class="bi bi-play-circle"></i>Explore Features</a>
         </div>
       </div>
       <div class="cta-decoration">
